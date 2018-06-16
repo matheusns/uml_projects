@@ -1,7 +1,7 @@
 # Software Engineering UML Projects
 
 <p align="justify">
-The project aims to develop the main UML diagrams to an specific application: system of management of an online auction.</p>
+The project aims to develop the main UML diagrams to a specific application: system of management of an online auction.</p>
 
 # Tools
 The diagrams were developed based on [draw.io](https://www.draw.io/) interface.
